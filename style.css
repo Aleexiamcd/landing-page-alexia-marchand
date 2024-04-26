@@ -1,0 +1,494 @@
+/* Write some CSS below */
+
+body{margin: 0;
+padding: 0;
+font-size: 18px;
+font-family: 'Roboto';
+text-align: center;
+color: #b4b4b4;}
+
+
+h1{font-family: 'Poppins';
+font-size: 72px;
+text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.298);
+margin-bottom: -20px;}
+
+h2{color: #000000;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Poppins';
+    margin-bottom: 20px;}
+
+h3,h4,h6,h5{font-family: 'Poppins';}
+
+h3{text-align: left;
+margin-left: 30px;}
+
+.h9{text-align: left;
+    color: #8600ac;
+    font-size: 20px;
+    margin-left: 30px;
+margin-top: -15px;
+font-weight: bolder;}
+
+h4{color: #8600ac;
+font-size: 20px;
+text-align: left;
+letter-spacing: 3px;
+margin-bottom: -40px;}
+
+h6{color: #8600ac;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 3px;
+    margin-bottom: -20px;}
+
+#h6bis{color: #8600ac;
+        font-size: 20px;
+        text-align: center;
+        letter-spacing: 3px;
+        padding-bottom: 20px;
+    font-family: 'Poppins';
+font-weight: bold;}
+
+
+h5{color: #363536;
+    font-size: 30px;
+    text-align: left;
+    margin-bottom: 50px;
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.134)}
+
+
+.h7{color: #363536;
+        font-size: 30px;
+        text-align: center;
+        font-family: 'Poppins';
+        margin-bottom: 50px;
+    font-weight: bolder;
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.134)}
+
+.h7bis{color: #363536;
+        font-size: 30px;
+        text-align: center;
+        font-family: 'Poppins';
+        margin-bottom: 20px;
+    font-weight: bolder;
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.134)}
+    
+
+.p2{margin: 0;
+    padding: 0;
+    font-size: 18px;
+    font-family: 'Roboto';
+    text-align: center;
+    color: #868686;}
+
+.italic{font-style: italic;
+text-align: left;
+padding-left: 33px;
+font-size: 14px;}
+
+.p1{margin: 0;
+    padding: 0;
+    font-size: 10px;
+    margin-left: 30px;
+    text-align: left;
+    color: rgb(61, 58, 58);
+    font-family: 'Poppins';
+
+margin-bottom: -15px;}
+
+.p3{font-size: 20px;
+font-family: 'Poppins';
+font-weight: bolder;}
+
+
+.grey{font-size: 14px; 
+    color: rgb(61, 58, 58);
+font-weight: bolder;}
+
+
+.banner{background-image: linear-gradient(-135deg, rgba(0, 0, 0, 0.777), rgba(99, 99, 99, 0.5)), url(images/harley-davidson-xAHtaYIHlPI-unsplash.jpg);
+background-position: center;
+background-attachment: scroll;
+background-size: cover;
+text-align: center;
+margin : 0;
+padding: 310px 0;
+color: white;}
+
+.banner p{color:rgb(230,230,230);
+    font-size: 22px;
+    margin-bottom: 50px;
+    margin-top: 30px;}
+
+.btnblack{background-color: black;
+color: whitesmoke;
+padding: 15px 25px;
+border-radius: 5px;
+font-weight: bold;
+text-decoration: none;}
+
+
+.btnblack:hover{background-color: #29DCB2;
+color: #000000;}
+
+
+
+.btnblue{background-color: #c7e2fb;
+    font-size: 8px;
+    color: #337bd9;
+    padding: 6px 8px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin: 15px 0px;
+    text-decoration: none;}
+
+.btnpurple{background-color: #8600ac;
+    font-size: 16px;
+    color: whitesmoke;
+    padding: 8px 12px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin: 10px 0px;
+    text-decoration: none;}
+
+
+
+
+.btn:hover {background-color: whitesmoke;
+color: black;}
+
+.btnpurple:hover {background-color: #000000;
+    color: rgb(255, 255, 255);}
+
+
+
+.section-grey{background-color: #f7f7f7;
+    color: #000000;
+padding: 70px 0px 70px 0px;
+margin-bottom: 50px;}
+
+.section-greytemoignage{background-color: #f7f7f7;
+    color: #000000;
+padding: 70px 0px 70px 0px;}
+
+.section-white{background-color: #ffffff;
+color: #000000;
+margin: 50px 0;
+padding: 30px 0px}
+
+.container{margin: 20px auto;
+width: 75%;}
+
+.containergrey{margin: 0px auto;
+    width: 75%;}
+
+
+
+.card-transparent{background-color: #ffffff;
+    border-radius: 10px;
+    }
+
+
+.card-transparent img{border-radius: 50%;
+background-color: #FECA15;
+max-width: 100px;}
+
+.card-transparent1{width: 100%;
+    height: 200px;
+    object-fit: cover;}
+
+
+    .card-transparent1 img{
+        max-width: 70%;}
+
+.card-transparent0{width: 100%;
+    height: 200px;
+     object-fit: cover;
+    font-family: "Roboto";
+padding-left: 80px;}
+        
+        
+ .card-transparent0 img{
+                max-width: 70%;}
+
+.card-transparent2{background-color: #ffffff;
+    border-radius: 10px;
+    }
+
+
+.card-transparent2 img{border-radius: 50%;
+background-color: #fd2d61;
+max-width: 100px;}
+
+.card-transparent3{background-color: #ffffff;
+    border-radius: 10px;
+    }
+
+
+.card-transparent3 img{border-radius: 50%;
+background-color: #29DCB2;
+max-width: 100px;}
+
+
+
+.card-black{background-color: #000000;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+color: whitesmoke;}
+
+.card-white img {border-radius: 4px;
+width: 100%;
+height: 200px;
+object-fit: cover;}
+
+.card-shadow img {border-radius: 4px;
+    width: 90%;
+    height: 200px;
+    object-fit: cover;
+    margin-top: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1)}
+
+.card-black img {border-radius: 4px;
+    width: 90%;
+    height: 200px;
+    object-fit: cover;
+    margin-top: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1)}
+
+.purple {color: #8600ac;
+font-size: 20px;
+font-family: 'Chivo';
+font-weight: bold;}
+
+.nav{
+    background: #ffffff; 
+    color: #000000;
+    padding: 15px 0;
+    position: fixed; 
+    text-align: right; 
+    top: 0; 
+    z-index: 1;
+    font-family: 'Poppins';
+    }
+    .nav  a{ 
+    padding: 15px 25px; 
+    color: #000000; 
+    text-decoration: none; 
+    height: bolder; 
+    }
+    .nav  a:hover{ 
+    background: #000000;
+    color: whitesmoke; 
+    }
+
+/* CSS GRID */
+
+.cards {display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr;
+grid-gap: 25px;
+margin-bottom: 100px;}
+
+.card-white{background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    transition: 0.5s;
+    }
+
+
+.card-white:hover {
+        transform: translateY(-7px);
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+.apropos {display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    grid-gap: 60px;
+    margin-bottom: 50px;}
+
+.tarifs{display: grid;
+    grid-template-columns: 65% 30% 5%;
+    grid-gap: 5px;
+text-align: left;
+margin-left: 30px;}
+
+.boutons{display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 5px;
+text-align: left;}
+
+.etiquette{display: grid;
+    grid-template-columns: 35% 65%;
+    grid-gap: 5px;
+text-align: center;
+margin-left: 30px;}
+
+
+.menu{display: grid;
+    grid-template-columns: 30% 45% 25%;
+    grid-gap: 5px;
+text-align: left;
+height:58px;
+background-color: white;
+position:fixed; left:0; width:100%; top:0;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1) ;}
+
+.menucolumn0{background-color: #ffffff;
+    border-radius: 10px;
+    margin-left: 30px;}
+
+.menucolumn{background-color: #ffffff;
+        border-radius: 10px;}
+
+.logo{text-align: left;}
+
+.menu img {border-radius: 0px;
+    width: auto;
+    height: 50px;
+    object-fit: cover;
+position: fixed;
+z-index: 10;}
+    
+.btnconnexion{background-color: #8600ac;
+    color: whitesmoke;
+    padding: 8px 10px;
+    border-radius: 5px;
+    margin-right: 30px;
+    margin-top: 10px;
+    font-weight: bold;
+    text-decoration: none;
+text-align: center;}
+    
+    
+.btnconnexion:hover{background-color: #000000;
+    color: #ffffff;}
+
+.btnreserver{background-color: #ffffff;
+    border: #8600ac solid 1px;
+        color: #8600ac;
+        padding: 8px 8px;
+        border-radius: 5px;
+        margin-top: 10px;
+        margin-right: 15px;
+        margin-left: 20px;
+        font-weight: bold;
+        text-decoration: none;
+    text-align: center;}
+
+
+.btnreserver:hover{background-color: #8600ac;
+            color: #ffffff;}
+
+.footer{background-color: black;
+color: whitesmoke;
+padding-top: 40px;
+padding-bottom: 80px;}
+
+.footer-text{display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+grid-gap: 5px;
+text-align: left;}
+
+.footer-text a{color: #f7f7f7;
+    text-decoration: none;
+    font-family: 'Roboto';}
+
+    .footer-text a:hover{color: #FECA15;
+        text-decoration: none;
+        font-family: 'Roboto';}
+
+
+
+.list-inline{
+    display: block;
+    list-style-type: none;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 0px;
+    unicode-bidi: isolate;
+}
+
+.list-inline li{display: inline;}
+
+.list-inline li i{font-size: 40px;
+color: #ffffff;
+display: inline-block;
+transition: 0.5s;}
+
+.list-inline li i:hover{font-size: 40px;
+    color: #fd2d61;
+    transform: translateY(-7px);}
+
+li{padding-left: 20px;}
+
+.li2{padding-left: 0px;
+font-family: 'Roboto';
+margin-top: 12px;}
+
+.list{
+    display: block;
+    list-style-type: none;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 0px;
+    unicode-bidi: isolate;
+}
+
+ul{padding-top: 3px;}
+
+.cardstemoignages {display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 25px;
+    margin-bottom: 100px;}
+
+/* Témoignages */
+ 
+ 
+.temoignage{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    grid-gap: 0px;
+    margin-bottom: 2px;
+}
+ 
+.temoignage h3{
+    text-align: left;
+}
+ 
+.temoignage p{
+    text-align: left;
+    margin-left: 30px;
+    margin-top: 5px;
+    margin-bottom: -20px;
+}
+
+.cards-row{display: grid;
+grid-template-rows: 1fr 1fr;
+grid-gap: 5px;}
+
+.text-temoignage{text-align: justify;
+font-size: 16px;
+padding-left: 30px;
+padding-right: 30px;
+margin-top: -10px;}
+
+#img{border-radius: 0px;
+    width: auto;
+    height: 35px;
+    object-fit: cover;}
+
+ 
+.temoignage img{
+    margin-left: 30px;
+    margin-top : 30px;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+}
+
+
